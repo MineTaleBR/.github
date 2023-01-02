@@ -1,7 +1,7 @@
 # MineTale
 Hey! Welcome to the official GitHub for the MineTale Server, an upcoming Brazilian experience!
 
-<img src="../images/banner.png" width="640" />
+<img src="https://github.com/MineTaleBR/.github/blob/main/images/banner.png?raw=true" width="640" />
 
 ## What is MineTale?
 It's a project that's at the development since 2020. It consists of an RPG with skills and custom abilities, custom bosses, custom stats, custom items, and much more.
